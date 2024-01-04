@@ -6,7 +6,8 @@ As the name says it will be a quiz app with questions in random order and at the
 ```
 * Explore & Use More Widgets
 * Render Conditional & List Content
-* Build More COmplex User Interfaces
+* Build More Complex User Interfaces
+* Working with DataModels (e.g. the quiz_questions.dart) [Blueprints]
 ```
 
 ## What does it look like

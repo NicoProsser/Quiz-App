@@ -12,4 +12,5 @@ As the name says it will be a quiz app with questions in random order and at the
 
 ## What does it look like
 
-NaN
+![image](https://github.com/NicoProsser/Quiz-App/assets/150072030/5cd7db05-1414-4fd2-a762-38490b40feea)
+
